@@ -1,3 +1,9 @@
+# Vance's First CS193 Homework
+Favorite things about CS193
+- PSOs are optional
+- Only one class per week
+- Seems like a smaller workload compared to other classes
+
 ## Welcome to GitHub Pages
 
 what is github pages? we don't know...
